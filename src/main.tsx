@@ -4,7 +4,7 @@ import App from './App.tsx'
 import './index.css'
 import ReactGA from "react-ga4";
 
-ReactGA.initialize("G-2BGZTZXRNN");
+ReactGA.initialize("G-Z0ZFQL7H73");
 ReactGA.send({ hitType: "pageview", page: "/", title: "Home page" });
 
 // Send a custom event
